@@ -14,3 +14,6 @@ RUN gem install jekyll bundler
 # bundle exec jekyll serve
 
 # https://github.com/thedevslot/WhatATheme.git
+
+
+# https://bilicover.magecorn.com/
